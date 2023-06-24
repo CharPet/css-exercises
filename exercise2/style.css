@@ -1,0 +1,19 @@
+.para {
+    background-color: #ffa7a7ff; 
+    font-family: Verdana, "DejaVu Sans", sans-serif; 
+}
+
+#blue {
+    color:blue;
+    font-size: 36px;
+}
+
+.number3 {
+    font-size: 24px;
+}
+
+#green {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
